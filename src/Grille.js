@@ -1,126 +1,127 @@
 import React from 'react';
 
 const Grille = () => 
+
         <table>
         <tr>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
         </tr>
         <tr>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
         </tr>
         <tr>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
         </tr>
         <tr>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
         </tr>
         <tr>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
         </tr>
         <tr>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
         </tr>
         <tr>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
         </tr>
         <tr>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
         </tr>
         <tr>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
         </tr>
         <tr>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
-            <td>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
+            <td onClick={change(this)}>kikou</td>
         </tr>
       </table>
 
